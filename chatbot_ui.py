@@ -11,7 +11,7 @@ from interview_practice_system import (
 )
 from streamlit_mic_recorder import mic_recorder
 
-
+st.set_page_config(page_title="AI Interviewer")
 
 st.title("🤖 AI Mock Interviewer")
 
