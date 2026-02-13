@@ -3,8 +3,7 @@ import asyncio
 
 from interview_practice_system import (
     initialize_preparation_crew,
-    evaluate_answer,
-    generate_follow_up_question,
+    evaluate_answer
 )
 
 # -------------------------------------------------
